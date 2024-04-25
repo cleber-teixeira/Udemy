@@ -1,8 +1,8 @@
 .material/
 
-..metadata/
+/.metadata/
 
-.Java_Completo/RemoteSystemsTempFiles/*
+/RemoteSystemsTempFiles/
 
 ..settings/
 
