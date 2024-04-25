@@ -21,6 +21,8 @@ public class exercicio_01 {
 		
 		result = value01 + value02;
 		System.out.println("\nSOMA = " + result);
+		
+		sc.close();
 	}
 
 }
