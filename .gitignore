@@ -1,3 +1,5 @@
 .material/
 ..metadata/
-.RemoteSystemsTempFiles
+.RemoteSystemsTempFiles/
+..settings/
+.bin
