@@ -1,9 +1,9 @@
-.material/
+material/
 
-/.metadata/
+metadata/
 
-/RemoteSystemsTempFiles/
+RemoteSystemsTempFiles/
 
-..settings/
+settings/
 
 .bin
