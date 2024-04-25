@@ -1,5 +1,9 @@
 .material/
+
 ..metadata/
-.RemoteSystemsTempFiles/
+
+.Java_Completo/RemoteSystemsTempFiles/*
+
 ..settings/
+
 .bin
