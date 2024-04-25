@@ -1,3 +1,5 @@
+package estudos;
+
 // Importa a biblioteca Locale
 import java.util.Locale;
 

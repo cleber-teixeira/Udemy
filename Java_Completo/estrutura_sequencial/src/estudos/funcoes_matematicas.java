@@ -1,3 +1,4 @@
+package estudos;
 public class funcoes_matematicas {
 
 	public static void main(String[] args) {
