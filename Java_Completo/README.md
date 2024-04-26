@@ -10,9 +10,9 @@ Profº: **Nelio Alves**
 
 > Iniciante
 
-- [ ] Conceitos de programação
-- [ ] Introdução à linguagem Java
-- [ ] Estrutura sequencial
+- [X] Conceitos de programação
+- [X] Introdução à linguagem Java
+- [X] Estrutura sequencial
 - [ ] Estrutura condicional
 - [ ] Estruturas repetitivas
 
