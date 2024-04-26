@@ -31,6 +31,6 @@ public class exercicio_04 {
 		System.out.println("\nNUMBER = " + employeeNumber);
 		System.out.printf("SALARY = U$ %.2f%n", salary);
 		
+		sc.close();
 	}
-
 }

@@ -31,8 +31,7 @@ public class exercicio_03 {
 		diferenca = a * b - c * d;
 		
 		System.out.println("\nDIFERENCA = " + diferenca);
+		
 		sc.close();
-
 	}
-
 }

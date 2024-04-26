@@ -41,5 +41,4 @@ public class exercicio_05 {
 			
 		sc.close();
 	}
-
 }

@@ -27,5 +27,4 @@ public class exercicio_02 {
 	
 		sc.close();
 	}
-
 }
