@@ -37,6 +37,8 @@ public class exercicio_05 {
 		
 		total = (double) partQuantity1 * unitValue1 + partQuantity2 * unitValue2;
 		
+		System.out.println("\nProdutos: " + partCode1 + "(" + partQuantity1 + ") e " 
+				+ partCode2 + "(" + partQuantity2 + ")" );
 		System.out.printf("\nVALOR A PAGAR: R$ %.2f%n", total);
 			
 		sc.close();
