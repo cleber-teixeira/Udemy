@@ -32,7 +32,8 @@ public class exercicio_08 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		double valorA, valorB, valorC, salario, result;
+		double valorA, valorB, valorC, salario;
+		double result = 0;
 		
 		System.out.print("Salário: ");
 		salario = sc.nextDouble();
@@ -45,14 +46,12 @@ public class exercicio_08 {
 			
 			valorA = salario - 2000.00;
 			result = valorA * 0.08;
-			System.out.printf("R$ %.2f%n", result);
 			
 		} else if (salario <= 4500.00) {
 			
 			valorA = salario - 2000.00;
 			valorB = valorA - 1000.00;
 			result = 1000.00 * 0.08 + valorB * 0.18;
-			System.out.printf("R$ %.2f%n", result);
 			
 		} else {
 			
@@ -60,9 +59,10 @@ public class exercicio_08 {
 			valorB = valorA - 1000.00;
 			valorC = valorB - 1500.00;
 			result = 1000.00 * 0.08 + 1500.00 * 0.18 + valorC * 0.28;
-			System.out.printf("R$ %.2f%n", result);
 			
 		}
+
+		System.out.printf("R$ %.2f%n", result);
 		
 		sc.close();
 	}
