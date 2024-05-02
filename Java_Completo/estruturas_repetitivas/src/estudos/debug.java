@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class debug {
-	// TODO 
+	// TODO Programa que calcula o preço do terreno.
 
 	public static void main(String[] args) {
 
