@@ -13,7 +13,7 @@ Profº: **Nelio Alves**
 - [X] Conceitos de programação
 - [X] Introdução à linguagem Java
 - [X] Estrutura sequencial
-- [ ] Estrutura condicional
+- [X] Estrutura condicional
 - [ ] Estruturas repetitivas
 
 ### Java e Programação Orientada a Objetos
