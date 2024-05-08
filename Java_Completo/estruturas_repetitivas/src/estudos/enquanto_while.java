@@ -3,7 +3,13 @@ package estudos;
 import java.util.Scanner;
 
 public class enquanto_while {
-	// TODO Programa que lê números inteiros e retorna a soma.
+	/** Programa que lê números inteiros e retorna a soma.
+	 * 
+	 * @author Cleber Teixeira
+	 * @category Estudos
+	 * @section 6 - Estruturas repetitivas
+	 * @lesson 44 - Estrutura repetitiva enquanto (while)
+	 */
 
 	public static void main(String[] args) {
 		
