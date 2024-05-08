@@ -2,14 +2,14 @@ package estudos;
 
 import java.util.Scanner;
 
+/** Programa que lê números inteiros e retorna a soma.
+ * 
+ * @author Cleber Teixeira
+ * @category Estudos
+ * @section 6 - Estruturas repetitivas
+ * @lesson 44 - Estrutura repetitiva enquanto (while)
+ */
 public class enquanto_while {
-	/** Programa que lê números inteiros e retorna a soma.
-	 * 
-	 * @author Cleber Teixeira
-	 * @category Estudos
-	 * @section 6 - Estruturas repetitivas
-	 * @lesson 44 - Estrutura repetitiva enquanto (while)
-	 */
 
 	public static void main(String[] args) {
 		

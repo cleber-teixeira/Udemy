@@ -1,13 +1,13 @@
 package estudos;
 
+/** Exemplo de Escopo e Inicialização de Variável.
+ * 
+ * @author Cleber Teixeira
+ * @category Estudos
+ * @section 5 - Estrutura condicional
+ * @lesson 40 - Escopo e inicialização
+ */
 public class escopo_e_inicializacao {
-	/** Exemplo de Escopo e Inicialização de Variável.
-	 * 
-	 * @author Cleber Teixeira
-	 * @category Estudos
-	 * @section 5 - Estrutura condicional
-	 * @lesson 40 - Escopo e inicialização
-	 */
 
 	public static void main(String[] args) {
 
