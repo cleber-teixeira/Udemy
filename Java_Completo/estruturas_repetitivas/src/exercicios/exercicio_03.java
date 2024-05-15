@@ -23,9 +23,34 @@ public class exercicio_03 {
 
 		Scanner sc = new Scanner(System.in);
 		
-		int x;
+		int x = 0, alcool = 0, gasolina = 0, diesel = 0;
 		
-		System.out.println("Digite um tipo de combustível ou 4 para sair:");
+		System.out.println("Digite um tipo de combustível:"
+				+ "\n1. Álcool\n2. Gasolina\n3. Diesel\n4. Fim");
+		x = sc.nextInt();
+		
+		while (x != 4) {
+			switch (x) {
+				case 1:
+					alcool += 1;
+					break;
+				case 2:
+					gasolina += 1;
+					break;
+				case 3:
+					diesel += 1;
+					break;
+				default:
+					System.out.println("Código inválido! Digite novamente:");
+			}
+			System.out.println("\n1. Álcool\n2. Gasolina\n3. Diesel\n4. Fim");
+			x = sc.nextInt();
+		}
+		
+		System.out.println("MUITO OBRIGADO"
+				+ "\nAlcool: " + alcool
+				+ "\nGasolina: " + gasolina
+				+ "\nDiesel: " + diesel);
 		
 		sc.close();
 		
